@@ -1,6 +1,6 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
+title: Lectures
+summary: Here you would find all lectures I gave in last years (mostly in French ...).
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -13,5 +13,10 @@ header:
   caption: ""
   image: ""
 ---
+## Pratical classes about simple exploratory data analysis in SAS
 
-Add your *content* here...
+## Lecture about SAS software
+
+## Lecture about EDA (French)
+
+Here you would find a lecture about exploratory data analysis. After some reminders about simple exploratory data analysis, I introduced PCA, CA and MCA. You would also find tutorials and pratical classes (I will add the answers latter)
