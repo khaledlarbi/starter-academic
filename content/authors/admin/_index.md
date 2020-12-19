@@ -1,25 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Khaled Larbi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student at Ensae Paris
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ensae Paris
+  url: "https://www.ensae.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a studient at Ensae Paris.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Theorical statistics (inferential statistic, statistic learning theory, survey sampling theory)
+- Machine learning
+- Deep learning
+- Econometrics
 
 education:
   courses:
