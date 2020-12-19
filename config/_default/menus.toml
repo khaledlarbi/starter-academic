@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Lectures"  # A link title for your page.
-  url = "#lectures"  # The URL of your page.
+  url = "lectures/"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 [[main]]
