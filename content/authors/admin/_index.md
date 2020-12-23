@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Hi there ! I'm Khaled, I'm 25 and I live in France near to Paris. I built because I wanted to share what I learned in statistics. You would find in :
-- "Lectures" all courses I gave between 2018 and now.
-- "Project" : all (academic or not) projects I worked on.
+Hi there ! I'm Khaled, I'm 25 and I live in France near to Paris. I built this site because I wanted to share what I have learned in statistics. You would find in :
+- **Lectures** all courses I gave between 2018 and now.
+- **Project** : all (academic or not) projects I worked on.
