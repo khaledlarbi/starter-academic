@@ -19,4 +19,6 @@ header:
 
 ## Lecture about EDA (French)
 
-Here you would find a lecture about exploratory data analysis. After some reminders about simple exploratory data analysis, I introduced PCA, CA and MCA. You would also find tutorials and pratical classes (I will add the answers latter)
+Here you would find a lecture about exploratory data analysis. After some reminders about simple exploratory data analysis, I introduced PCA, CA and MCA. You would also find tutorials and pratical classes (I will add the answers latter).
+
+{{% staticref "files/Cours_ADD_Polytech_Lille.pdf" "newtab" %}}Lecture{{% /staticref %}}
